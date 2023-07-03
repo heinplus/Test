@@ -4,5 +4,5 @@ Testing
 
 # Installation
 
-* * npm installing
-* * thanks for watching
+*  npm installing
+*  thanks for watching
